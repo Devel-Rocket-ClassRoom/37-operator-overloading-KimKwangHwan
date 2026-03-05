@@ -1,6 +1,7 @@
 # 게임 화폐 시스템
 
-게임 내 화폐를 표현하는 `GameCurrency` 구조체를 구현하시오. 이 구조체는 Gold와 Silver 두 단위를 사용하며, 100 Silver = 1 Gold 규칙에 따라 자동으로 정규화됨.
+게임 내 화폐를 표현하는 `GameCurrency` 구조체를 구현하시오. 이 구조체는 Gold와 Silver 두 단위를 사용하며, 
+100 Silver = 1 Gold 규칙에 따라 자동으로 정규화됨.
 
 **요구사항:**
 
